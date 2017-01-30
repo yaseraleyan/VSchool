@@ -1,0 +1,22 @@
+body {
+  margin: 0px 100px 0px 100px;
+}
+table {
+  text-align: center;
+  border-spacing: 0;
+  
+}
+td {
+  padding: 30px;
+  font-size: 18px;
+  font-family: monospace;
+  border: 2px aqua solid;
+  border-left: 0;
+  border-right: 0;
+  background-color: 
+  
+}
+tr:nth-child(even) {
+  background-color: black;
+  color: aqua;
+}

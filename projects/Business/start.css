@@ -1,0 +1,78 @@
+body {
+    background-image: url(4.jpg);
+    color: lightgrey;
+}
+
+.justified {
+    left: 42%;
+}
+
+
+}
+container-fluid {
+    background-color: transparent;
+}
+navbar {
+    background-color: transparent;
+}
+navbar-header {
+    background-color: transparent;
+}
+.header {
+    height: 50px;
+    background-color: transparent;
+}
+.content {
+    position: absolute;
+    top: 50px;
+    left: 0px;
+    right: 0px;
+    bottom: 0px;
+    overflow-y: scroll;
+}
+.par {
+    font-size: 1.4em;
+}
+div
+#myCarousel .nav {
+    background: #eee;
+}
+#myCarousel .nav a {
+    border-radius: 0px;
+}
+.navbar {
+    margin-bottom: 0;
+    border-radius: 0;
+}
+.empty {
+    height: 150px;
+}
+.carousel-inner img {
+    width: 70%;
+    margin: auto;
+    min-height: 200px;
+}
+
+
+.center {
+    text-align: center;
+}
+.jumbotron {
+    background-color: transparent;
+    color: lightgrey;
+    border-radius: 0px;
+}
+.jumbotron-sm {
+    padding-top: 24px;
+    padding-bottom: 24px;
+}
+.jumbotron small {
+    color: lightgrey;
+}
+.h1 small {
+    font-size: 24px;
+}
+legend {
+    color: lightgrey;
+}
+@import url("https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css");

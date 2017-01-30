@@ -1,0 +1,22 @@
+.firstClass {
+    color: darkred;
+    font-size: 40px;
+    padding: 50px;
+    border: 10px solid darkblue;
+    background: lemonchiffon;
+    margin: 30px;
+    text-align: center;
+}
+#main {
+    color:olivedrab;
+}
+#main2 {
+    color: red;
+}
+#main3 {
+    color: darkolivegreen
+}
+div p {
+    color: greenyellow
+        !important
+}

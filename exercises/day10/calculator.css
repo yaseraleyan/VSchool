@@ -1,0 +1,85 @@
+body {
+  margin: 20px 100px 20px 100px;
+  font-family: monospace;
+  font-size: 16px;
+}
+.box {
+  width: 26%;
+  height: 100px;
+  color: white;
+  text-align: center;
+  display: inline-block;
+  border: 0px black solid;
+  vertical-align: middle;
+  margin: 5px;
+  border-radius: 4px;
+  
+  
+  
+}
+.box1 {
+  background-color: #FFFDE7;
+}
+.box2 {
+  background-color: #FFF9C4;
+}
+.box3 {
+  background-color: #FFF59D;
+}
+.box4 {
+  background-color: #E1F5FE;
+}
+.box5 {
+  background-color: #B3E5FC;
+}
+.box6 {
+  background-color: #81D4FA;
+}
+.box7 {
+  background-color: #FCE4EC;
+}
+.box8 {
+  background-color: #F8BBD0;
+}
+.box9 {
+  background-color: #F48FB1;
+}
+.box10 {
+  background-color: #E8F5E9;
+}
+.box11 {
+  background-color: #C8E6C9;
+}
+.box12 {
+  background-color: #A5D6A7;
+}
+.mark {
+  width: 5%;
+  height: 50px;
+  color: black;
+  text-align: center;
+  display: inline-block;
+  padding-top: 20px;
+  background-color: white;
+  border: 0px;
+ 
+}.input1 {
+  text-align: left;
+  vertical-align: middle;
+  margin-top: 35px;
+  text-align: center;
+  border-radius: 2px;
+  padding: 6px;
+  border: 0px;
+
+}
+button {
+  width: 5%;
+  height: 40px;
+  color: black;
+  text-align: center;
+  display: inline-block;
+  padding-top: 0px;
+  border-radius: 3px;
+  background-color: #fff;
+ 

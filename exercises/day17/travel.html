@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Travel Form</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet"
+          type="text/css"
+          href="travel.css">
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+
+</head>
+<body>
+    <form>
+        <label for="firstname">First name</label>
+        <input id="firstname" class="form-control" name="firstname" type="text">
+        <label for="lastname">Last name</label>
+        <input id="lastname" class="form-control" name="lastname" type="text">
+        <label for="age">Age</label>
+        <input id="age" class="form-control" name="age" type="number">
+        <label for="gender"><p>Gender</p></label>
+        <form action="">
+        <p><input id="gender" type="radio" name="gender" value="male"> Male<br></p>
+        <p><input id="gender" type="radio" name="gender" value="female"> Female<br></p>
+        <p><input id="gender" type="radio" name="gender" value="other"> Other<br></p>
+        </form>
+        <label for="location">Traveling to</label>
+        <select class="form-control">
+            <option id="location" value="turkey">Turkey</option>
+            <option id="location" value="italy">Italy</option>
+            <option id="location" value="france">France</option>
+        </select>
+        <label for="food">Food</label>
+        <form action="demo_form.asp">
+            <p><input id="food" type="checkbox" name="food" value="kosher"> I Kosher<br></p>
+            <p><input id="food" type="checkbox" name="food" value="lactose free" checked> Lactose<br></p>
+            <p><input id="food" type="checkbox" name="food" value="vegetarian"> Vegetarian<br></p>        
+        
+        <input id="submit" type="submit" value="Submit" name="submit">
+        </form>
+    
+    
+    </form>
+    
+    
+    
+    
+    
+        <script
+        src="https://code.jquery.com/jquery-3.1.1.min.js"
+        integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8="
+        crossorigin="anonymous"></script>
+        <script src="travel.js"></script>
+</body>
+</html>

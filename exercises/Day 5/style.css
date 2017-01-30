@@ -1,0 +1,30 @@
+h1 {
+    color: black;
+    font-size: 50;
+    border: 10px solid red;
+    padding: 10px;
+    text-align: center;
+   
+}
+h3 {
+    text-align: center;
+}
+.bodyClass {
+    margin: 20px 300px 0px 300px;
+}
+p {
+    font-size: 18px;
+    display: inline-block;
+    width: 250px;
+    border: 2px red solid;
+    padding: 5px;
+    margin: 5px;
+    
+}
+
+img {
+    margin: 0px 50px 20px 0px;
+    float: left;
+    width: 450px;
+    height: 600px;
+}

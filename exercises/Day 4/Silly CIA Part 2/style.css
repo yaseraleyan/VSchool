@@ -1,0 +1,41 @@
+.allClass {
+    background-color: cornsilk;
+    border: 10px solid darkblue;
+    padding: 20px solid cornsilk;
+    
+}
+h1 {
+    color: darkgreen;
+    font-family: sans-serif;
+    text-align: center;
+    font-size: 45px;
+    !important
+}
+h3 {
+    color: darkmagenta;
+    font-size: 35px;
+    font-family: sans-serif;
+    text-align: center;
+}
+p {
+    font-size: 30px;
+    font-family: sans-serif;
+}
+li {
+    font-size: 30px;
+    font-family: sans-serif;    
+}
+a { text-decoration:none;      
+}
+#like {
+    text-transform: uppercase;
+}
+a:hover{
+    text-decoration: underline; 
+}
+img {
+    height: 350px;
+    width: 465px;
+    float:left;
+    padding: 0px 30px 0px 15px;
+}

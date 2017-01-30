@@ -1,0 +1,23 @@
+.blue {
+    background-color: darkblue;
+    height: 100px;
+}
+.red {
+    background-color: darkred;
+    height: 100px;
+        
+}
+div {
+    border: 1px solid black;
+    margin: 0px;
+}
+.white {
+    height: 800px;
+    background-color: antiquewhite;
+}
+p {
+    margin: 50px;
+    color: black;
+    font-size: 40px;
+    font-family: monospace;
+}

@@ -1,0 +1,55 @@
+
+.container-fluid {
+  
+background-image: url(14.jpg);
+background-size: cover;
+padding: 0px !important;
+margin: 0px !important;
+  }
+
+ 
+button {
+    text-align: center;
+    background-color: darkred;
+    color: yellow;
+    border: 2px yellow solid;
+    padding: 20px;
+    margin: 0px 0px 0px  0px;
+}
+input {
+    margin: 0px 0px 0px 0px;
+    color: darkred;
+    background-color: whitesmoke;
+    border: 1px dodgerblue solid;
+    text-align: center;
+    border-radius: 10px;
+    display: block;
+
+    
+}
+.output {
+    margin: 300px 0px 0px 0px !important;
+    height: 45px;
+    width: 0px;
+    padding: 0px;
+    font-size: 3.5em;
+    color: darkred;
+    text-align: center;
+    
+    border: 0px darkred solid;
+    
+}
+
+.col-md-6 {
+    height: 150px;
+}
+.center {
+    align-content: center;
+    align-items: center;
+    align-self: center;
+    vertical-align: center;
+}
+div {
+    display: block;
+}
+
